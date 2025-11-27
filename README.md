@@ -1,4 +1,4 @@
-![3waija's github stats](https://github-readme-stats.vercel.app/api?username=3waija&show_icons=true&theme=dark)
+![its4SBA's github stats](https://github-readme-stats.vercel.app/api?username=3waija&show_icons=true&theme=dark)
 ```js
 const ITS4SBA = {
    name: "Salma",
